@@ -50,10 +50,13 @@ a:hover {
 
 .bloc-md {
     padding: 50px;
+    
 }
+
 
 .bloc-sm {
     padding: 20px 50px;
+    font-size: 16px;
 }
 
 .bg-center,
@@ -435,7 +438,7 @@ nav .caret {
     float: right;
 }
 
-.mg-md {
+.mg-md { /*logo web*/
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -443,6 +446,7 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    
 }
 
 .btn {
