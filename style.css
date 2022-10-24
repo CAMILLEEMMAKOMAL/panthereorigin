@@ -302,6 +302,8 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    display: flex;
+    justify-content: center;
 }
 
 .navbar-brand img {
@@ -440,7 +442,7 @@ nav .caret {
     float: right;
 }
 
-.mg-md { /*logo web*/
+.mg-md { /* web*/
     margin-top: 10px;
     margin-bottom: 20px;
 }
