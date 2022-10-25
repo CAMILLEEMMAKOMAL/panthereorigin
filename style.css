@@ -11,6 +11,8 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+   
+
 }
 
 a:hover {
@@ -57,6 +59,7 @@ a:hover {
 .bloc-sm {
     padding: 20px 50px;
     font-size: 16px;
+    
 }
 
 .bg-center,
@@ -253,6 +256,7 @@ a:hover {
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
     color: rgba(0, 0, 0, 1);
+    
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -331,10 +335,13 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    display: flex;
+    text-decoration: none;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
+    
 }
 
 .nav > li a:hover,
@@ -345,7 +352,7 @@ a:hover {
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
-    display: none;
+   
 }
 
 .navbar-toggle:hover {
@@ -516,6 +523,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+
 }
 
 .scrollToTop {
@@ -686,6 +694,7 @@ a {
 
 p {/* taille des paragraphe*/
     font-size: 16px;
+   
 }
 
 .tight-width-whitespace {
