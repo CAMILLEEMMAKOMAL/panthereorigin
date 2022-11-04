@@ -705,7 +705,12 @@ a {
 
 p {/* taille des paragraphe*/
     font-size: 13px;
-    
+    color: #534c4c;
+}
+
+strong {
+    font-size: 18px;
+    color: #534c4c;
 }
 
 .tight-width-whitespace {
