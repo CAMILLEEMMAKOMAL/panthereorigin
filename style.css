@@ -104,8 +104,8 @@ a:hover {
 }
 
 .citation{font-style: italic;
-          font-size: 15px;      }
-.auteur {font-size:15px;}          
+          font-size: 22px;      }
+.auteur {font-size:18px;}          
 
 .texture-paper::before {
     background: none;
@@ -678,7 +678,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #000000!important;
+    color: #575757!important;
 }
 
 .container {
@@ -704,12 +704,12 @@ a {
 }
 
 p {/* taille des paragraphe*/
-    font-size: 13px;
+    font-size: 14px;
     color: #000000;
 }
 
 strong {
-    font-size: 18px;
+    font-size: 22px;
     color: #534c4c;
 }
 
@@ -818,6 +818,11 @@ h4 {
     background: #F3976C!important;
     color: #FFFFFF!important;
 }
+
+.contrast {
+    color:rgb(0, 0, 0)!important;
+    font-size: 14px;
+   }
 
 .ltc-white {
     color: #FFFFFF!important;
